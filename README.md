@@ -58,6 +58,13 @@ influence of the 0s in Insulin and Skin Thickness
 Studying the model results, we can infer that older Pima women who have higher Insulin and Glucose readings are at higher risk of diabetes 
 
 
+# File Structure
+
+`PythonFile\PIMA_Diabetes_EDA_Modelling`: This python file contains the EDA(Univariate and bivariate analysis), imputation methods and predictive modeling for the dataset
+
+`Report\Report`: Detailed report on the approach,analysis and outcome from the dataset
+
+
 # References
 
 ● High-Risk Populations: The Pimas of Arizona and Mexico:
