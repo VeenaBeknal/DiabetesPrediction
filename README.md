@@ -60,6 +60,8 @@ Studying the model results, we can infer that older Pima women who have higher I
 
 # File Structure
 
+`DataSet\PimaIndianDiabetesData`: Detailed report on the approach,analysis and outcome from the dataset
+
 `PythonFile\PIMA_Diabetes_EDA_Modelling`: This python file contains the EDA(Univariate and bivariate analysis), imputation methods and predictive modeling for the dataset
 
 `Report\Report`: Detailed report on the approach,analysis and outcome from the dataset
